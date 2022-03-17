@@ -10,7 +10,7 @@ A dedicated and efficient Full-Stack web developer skilled in MERN stack and am 
 
 
 <br/>
-## 💻🚀 My Skills...
+## 💻🚀 My Skills
   
 <p dir="auto">
 <a target="_blank" rel="noopener noreferrer" href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="html5" data-canonical-src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;"></a>
@@ -27,9 +27,9 @@ A dedicated and efficient Full-Stack web developer skilled in MERN stack and am 
 <a target="_blank" rel="noopener noreferrer" href="https://learning.postman.com/docs/getting-started/introduction/"><img src="https://camo.githubusercontent.com/879423585ed087f3c973857c43ba7e7d84f52c993d2c937055726339fbf921d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d506f73746d616e266c6f676f436f6c6f723d7768697465" alt="postman" data-canonical-src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=Postman&amp;logoColor=white" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://docs.npmjs.com"><img src="https://camo.githubusercontent.com/55037e0ff8e2c9df84ad631c3d0443a7316776ede7459a5872ccb336d7df2781/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e706d2d4342333833373f7374796c653d666f722d7468652d6261646765266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465" alt="npm" data-canonical-src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&amp;logo=npm&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
-
 <br/>
-## 🤖👾 My Projects...
+
+## 🤖👾 Projects
 
 <p dir="auto">
 <a href="#"><img src="https://chinacoupon.info/wp-content/uploads/2019/02/new-logo-gearbest-1280x720.jpg" alt="Gearbest" style="width: 18%; height: 60px;"></a>&nbsp;&nbsp;<a href="https://pepperfry-clone-silk.vercel.app/">view Project</a><br>
