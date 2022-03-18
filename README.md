@@ -6,7 +6,7 @@ A dedicated and efficient Full-Stack web developer skilled in MERN stack and an 
 - 👩 Eager to obtain a challenging position at a dynamic company to enhance my learning and contribute to exciting projects.
 - 👨‍💻 All of my projects are available at My <a href="#">Portfolio</a>
 - 📫 How to reach me ... via call or whatsapp +91 9597629030... via Mail sarvan.m20@gmail.com
-- ⚡ Fun fact: I love to spend my free time listening to music and play cricket.
+- ⚡ Fun fact: I love to spend my free time by listening to music and playing cricket.
 <br/>
 
 ## 💻🚀 Skills
