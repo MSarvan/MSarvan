@@ -4,7 +4,7 @@ A dedicated and efficient Full-Stack web developer skilled in MERN stack and an 
 - 🌱 Passionate and dedicated aspiring full-stack web developer with a specialization in MERN stack.
 - 👀 Keen to build and develop high-quality user-friendly platforms by using my technical knowledge and skills.
 - 👩 Eager to obtain a challenging position at a dynamic company to enhance my learning and contribute to exciting projects.
-- 👨‍💻 All of my projects are available at My <a href="#">Portfolio</a>
+- 👨‍💻 All of my projects are available at My <a href="https://portfolio-saravana.vercel.app">Portfolio</a>
 - 📫 How to reach me... via call or whatsapp +91 9597629030... via Mail sarvan.m20@gmail.com
 - ⚡ Fun fact: I love to spend my free time by listening to music and playing cricket.
 <br/>
@@ -32,8 +32,8 @@ A dedicated and efficient Full-Stack web developer skilled in MERN stack and an 
 
 <p dir="auto">
 <a href="#"><img src="https://chinacoupon.info/wp-content/uploads/2019/02/new-logo-gearbest-1280x720.jpg" alt="Gearbest" style="width: 17%; height: 60px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#">View project</a><br><br>
-<a href="#"><img src="https://static.tomtop.com/tomtop/icon/logo.png?v=3" alt="Tomtop" style="width: 17%; height: 60px"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#">View project</a><br><br>
-<a href="#"><img src="https://1000logos.net/wp-content/uploads/2021/02/Flipkart-logo-500x281.png" alt="Flipkart" style="width: 17%; height: 60px"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#">View project</a>
+<a href="#"><img src="https://static.tomtop.com/tomtop/icon/logo.png?v=3" alt="Tomtop" style="width: 17%; height: 60px"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://cloneof-tomtop.vercel.app">View project</a><br><br>
+<a href="https://cloneof-flipkart.vercel.app"><img src="https://1000logos.net/wp-content/uploads/2021/02/Flipkart-logo-500x281.png" alt="Flipkart" style="width: 17%; height: 60px"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#">View project</a>
 </p>
 <br/>
 
