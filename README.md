@@ -1,9 +1,9 @@
 # Hi👋, I am Saravanan,
 A dedicated and efficient Full-Stack web developer skilled in MERN stack. 
-## 🙋‍♀️👩‍🎓 About me...
+## 👨‍🎓 About me...
 - 🌱 Passionate and dedicated aspiring full-stack web developer with a specialization in MERN stack.
 - 👀 Keen to build and develop high-quality user-friendly platforms by using my technical knowledge and skills.
-- 👩 Eager to obtain a challenging position at a dynamic company to enhance my learning and contribute to exciting projects.
+- 👨 Eager to obtain a challenging position at a dynamic company to enhance my learning and contribute to exciting projects.
 - 👨‍💻 All of my projects are available at My <a href="https://portfolio-saravana.vercel.app">Portfolio</a>
 - 📫 How to reach me... via call or whatsapp +91 9597629030... via Mail sarvan.m20@gmail.com
 - ⚡ Fun fact: I love to spend my free time by listening to music and playing cricket.
