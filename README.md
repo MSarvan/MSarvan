@@ -1,7 +1,7 @@
 # Hi👋, I am Saravanan,
 A dedicated and efficient Full-Stack web developer skilled in MERN stack. 
 ## 👨‍🎓 About me...
-- 🌱 Passionate and dedicated aspiring full-stack web developer with a specialization in MERN stack.
+- 🌱 Passionate and dedicated full-stack web developer with a specialization in MERN stack.
 - 👀 Keen to build and develop high-quality user-friendly platforms by using my technical knowledge and skills.
 - 👨 Eager to obtain a challenging position at a dynamic company to enhance my learning and contribute to exciting projects.
 - 👨‍💻 All of my projects are available at My <a href="https://portfolio-saravana.vercel.app">Portfolio</a>
