@@ -33,6 +33,7 @@ A dedicated and efficient Full-Stack web developer skilled in MERN stack.
 <p dir="auto">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgvju0XbdNZkg2QEr0uRIrbdm6qFea0bIyej7q0HKMChnsosv0X9qogwmRLJN9y1m8SxM&usqp=CAU" alt="Devto" style="width: 17%; height: 60px"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dev-dot-to.netlify.app/">View project</a><br><br>
 <img src="https://cdn.shopify.com/s/files/1/1454/5188/files/logo_602b86cb-64f1-48bb-91ff-10ea44c29c10.png?v=1679991855&width=500" alt="mCaffeine" style="width: 17%; height: 60px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://m-caffeine-app.vercel.app/">View project</a><br><br>
+<img src="https://i.postimg.cc/BvTQ9306/Screenshot-2024-05-27-at-12-20-51.png" alt="filmfusion" style="width: 17%; height: 60px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://fullyfilmfusion.vercel.app/">View project</a><br><br>
 <img src="https://i.postimg.cc/3w5rq1mb/git-Img-1.png" alt="Todo" style="width: 17%; height: 60px"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://app-check-list.vercel.app/">View project</a>
 </p>
 <br/>
